@@ -1,0 +1,4 @@
+venv
+notifybot/__pycache__/
+tests/config.ini
+.env
