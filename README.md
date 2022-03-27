@@ -159,7 +159,7 @@ python -O main.py --daemon # Daemon Mode(no interactive shell, suitable for runn
         "success": true
     }
     ```
-    ![Send Text](https://drive.google.com/uc?export=view&id=1aSGBdVko137JpgAYy4knNi9G4ulZ8WpN)
+    ![Send Text](./readme_assets/send_text.png)
 
 ## Send Embed Message
 
@@ -206,7 +206,7 @@ python -O main.py --daemon # Daemon Mode(no interactive shell, suitable for runn
     }
     ```
 
-    ![Send Text](https://drive.google.com/uc?export=view&id=1oMG5O_gyjYnvwEAeQ7VyUPemQKIDIzX1) 
+    ![Send Embed](./readme_assets/send_embed.png) 
 
 # Tag
 
